@@ -1,0 +1,22 @@
+
+sudo su(root user)
+pwd(present working sdirectory)
+sudo useradd [#username]name (to add user)
+sudo passwd [username] (password)
+userdel (delete user)
+
+uname
+
+ls (list)
+
+mv(move,rename)
+cp(copy)
+
+du(disk usage)
+free(momory  space)
+npoc(process running)
+df -h(availabel space)
+
+
+curl [Options] url #(to get or to fetch data in internet 
+
